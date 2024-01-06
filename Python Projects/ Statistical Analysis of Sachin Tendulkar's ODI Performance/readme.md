@@ -25,7 +25,7 @@ The goal is to gain insights into the factors that contribute to Sachin's succes
 - No significant relationship was identified between Sachin hitting a century and the month of the year.
 
 ### Average Runs in Won vs. Lost Matches:
-- The average runs scored by Sachin in won matches were found to be greater than those scored in lost matches.
+- The average runs scored by Sachin in won matches were found to be statistically greater than those scored in lost matches.
 
 ### Average Runs Against Different Opponents:
 - No statistically significant difference was observed in average runs scored by Sachin against different opponents.
@@ -35,6 +35,7 @@ The goal is to gain insights into the factors that contribute to Sachin's succes
 
 ### Average Strike Rate:
 - No statistically significant difference was identified between the average strike rates of Sachin in the first and second innings.
+- The Average Strike Rate of Sachin in won matches was found to be statistically greater than the Average Strike Rate in lost matches.
 
 ### Balls Faced in First and Second Innings:
 - A statistically significant difference was found between the average number of balls faced by Sachin during the first and second innings.
