@@ -35,7 +35,7 @@ The goal is to gain insights into the factors that contribute to Sachin's succes
 
 ### Average Strike Rate:
 - No statistically significant difference was identified between the average strike rates of Sachin in the first and second innings.
-- The Average Strike Rate of Sachin in won matches was found to be statistically greater than the Average Strike Rate in lost matches.
+- The Average Strike Rate of Sachin in won matches was found to be statistically higher than the Average Strike Rate in lost matches.
 
 ### Balls Faced in First and Second Innings:
 - A statistically significant difference was found between the average number of balls faced by Sachin during the first and second innings.
