@@ -1,3 +1,5 @@
+[Fully Rendered Notebook](https://nbviewer.org/github/aakash1404/Projects/blob/main/Python%20Projects/%20Statistical%20Analysis%20of%20Sachin%20Tendulkar%27s%20ODI%20Performance/Sachin_ODI_Data_Statistical_Tests.ipynb)
+
 # Project Description:
 __This project aims to conduct a comprehensive statistical analysis of Sachin Tendulkar's cricket performance across various dimensions.
 The study involves examining relationships and differences in key performance indicators, including centuries scored, remaining not out,
