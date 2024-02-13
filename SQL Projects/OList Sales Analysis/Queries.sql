@@ -1,7 +1,7 @@
-#Duplicated rows check in order_items tables
+#Duplicated rows check in order_items tables;
 WITH
 cte AS (SELECT *,
-               DENSE_RANK() OVER (PARTITION BY order_id,order_item_id ORDER BY seller_id) AS rnk
+               ROW_NUMBER() OVER (PARTITION BY order_id,order_item_id ORDER BY seller_id) AS rnk
 		FROM olist.order_items)
 SELECT * 
 FROM cte 
